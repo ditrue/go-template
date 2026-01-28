@@ -5,8 +5,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/app/request"
+	"github.com/ditrue/go-template/global"
+	"github.com/ditrue/go-template/model/app/request"
 	jwt "github.com/golang-jwt/jwt/v5"
 )
 

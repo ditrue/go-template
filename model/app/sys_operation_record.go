@@ -4,7 +4,7 @@ package app
 import (
 	"time"
 
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
+	"github.com/ditrue/go-template/global"
 )
 
 // 如果含有time.Time 请自行import time包

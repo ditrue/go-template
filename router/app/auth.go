@@ -1,7 +1,7 @@
 package app
 
 import (
-	api "github.com/flipped-aurora/gin-vue-admin/server/api/v1"
+	api "github.com/ditrue/go-template/api/v1"
 	"github.com/gin-gonic/gin"
 )
 

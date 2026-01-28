@@ -1,6 +1,6 @@
 package request
 
-import "github.com/flipped-aurora/gin-vue-admin/server/model/common/request"
+import "github.com/ditrue/go-template/model/common/request"
 
 type GrocerySearch struct {
 	Page     int    `json:"page" form:"page"`

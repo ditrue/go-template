@@ -1,8 +1,8 @@
 package utils
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/model/app"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/app/request"
+	"github.com/ditrue/go-template/model/app"
+	"github.com/ditrue/go-template/model/app/request"
 )
 
 func LoginToken(user app.Login) (token string, claims request.CustomClaims, err error) {

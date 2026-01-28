@@ -3,10 +3,10 @@ package app
 import (
 	"net/http"
 
-	"github.com/flipped-aurora/gin-vue-admin/server/model/app"
-	appResp "github.com/flipped-aurora/gin-vue-admin/server/model/app/response"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/common/response"
-	"github.com/flipped-aurora/gin-vue-admin/server/utils"
+	"github.com/ditrue/go-template/model/app"
+	appResp "github.com/ditrue/go-template/model/app/response"
+	"github.com/ditrue/go-template/model/common/response"
+	"github.com/ditrue/go-template/utils"
 	"github.com/gin-gonic/gin"
 )
 

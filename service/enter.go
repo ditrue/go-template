@@ -1,7 +1,7 @@
 package service
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/service/app"
+	"github.com/ditrue/go-template/service/app"
 )
 
 var ServiceGroupApp = new(ServiceGroup)

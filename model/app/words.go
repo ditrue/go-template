@@ -1,6 +1,6 @@
 package app
 
-import "github.com/flipped-aurora/gin-vue-admin/server/global"
+import "github.com/ditrue/go-template/global"
 
 type Word struct {
 	global.GVA_MODEL

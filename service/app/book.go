@@ -4,10 +4,10 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/app"
-	appReq "github.com/flipped-aurora/gin-vue-admin/server/model/app/request"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/app/response"
+	"github.com/ditrue/go-template/global"
+	"github.com/ditrue/go-template/model/app"
+	appReq "github.com/ditrue/go-template/model/app/request"
+	"github.com/ditrue/go-template/model/app/response"
 )
 
 type BookService struct{}

@@ -3,9 +3,9 @@ package app
 import (
 	"fmt"
 
-	"github.com/flipped-aurora/gin-vue-admin/server/model/app"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/common/response"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/grocery/request"
+	"github.com/ditrue/go-template/model/app"
+	"github.com/ditrue/go-template/model/common/response"
+	"github.com/ditrue/go-template/model/grocery/request"
 	"github.com/gin-gonic/gin"
 )
 

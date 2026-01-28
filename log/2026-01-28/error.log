@@ -1,0 +1,1 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2026-01-28 11:26:46.936	[31merror[0m	/home/ringo/workspace/github/ditrue/word-master/core/server_run.go:36	server启动失败	{"error": "listen tcp :8888: bind: address already in use"}

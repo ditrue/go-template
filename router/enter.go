@@ -1,7 +1,7 @@
 package router
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/router/app"
+	"github.com/ditrue/go-template/router/app"
 )
 
 var RouterGroupApp = new(RouterGroup)

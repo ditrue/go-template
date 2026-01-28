@@ -3,7 +3,7 @@ package request
 import (
 	"time"
 
-	"github.com/flipped-aurora/gin-vue-admin/server/model/common/request"
+	"github.com/ditrue/go-template/model/common/request"
 )
 
 type BookSearch struct {

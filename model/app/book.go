@@ -2,7 +2,7 @@
 package app
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
+	"github.com/ditrue/go-template/global"
 )
 
 // 书 结构体  Book

@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/app"
+	"github.com/ditrue/go-template/global"
+	"github.com/ditrue/go-template/model/app"
 )
 
 func importWord() error {

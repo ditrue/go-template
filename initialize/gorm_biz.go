@@ -1,8 +1,8 @@
 package initialize
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/app"
+	"github.com/ditrue/go-template/global"
+	"github.com/ditrue/go-template/model/app"
 )
 
 func bizModel() error {

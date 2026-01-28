@@ -1,6 +1,6 @@
 package response
 
-import "github.com/flipped-aurora/gin-vue-admin/server/model/app"
+import "github.com/ditrue/go-template/model/app"
 
 type LoginResponse struct {
 	User      *app.User `json:"user"`

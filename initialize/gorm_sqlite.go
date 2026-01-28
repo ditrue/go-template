@@ -1,9 +1,9 @@
 package initialize
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/config"
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	"github.com/flipped-aurora/gin-vue-admin/server/initialize/internal"
+	"github.com/ditrue/go-template/config"
+	"github.com/ditrue/go-template/global"
+	"github.com/ditrue/go-template/initialize/internal"
 	"github.com/glebarez/sqlite"
 	"gorm.io/gorm"
 )

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	"github.com/flipped-aurora/gin-vue-admin/server/initialize"
+	"github.com/ditrue/go-template/global"
+	"github.com/ditrue/go-template/initialize"
 	"go.uber.org/zap"
 )
 

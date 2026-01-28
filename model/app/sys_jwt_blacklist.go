@@ -1,7 +1,7 @@
 package app
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
+	"github.com/ditrue/go-template/global"
 )
 
 type JwtBlacklist struct {

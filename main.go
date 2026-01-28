@@ -4,10 +4,10 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/flipped-aurora/gin-vue-admin/server/cmd"
-	"github.com/flipped-aurora/gin-vue-admin/server/core"
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	"github.com/flipped-aurora/gin-vue-admin/server/initialize"
+	"github.com/ditrue/go-template/cmd"
+	"github.com/ditrue/go-template/core"
+	"github.com/ditrue/go-template/global"
+	"github.com/ditrue/go-template/initialize"
 	_ "go.uber.org/automaxprocs"
 	"go.uber.org/zap"
 )

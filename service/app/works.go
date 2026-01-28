@@ -3,9 +3,9 @@ package app
 import (
 	"context"
 
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/app"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/grocery/request"
+	"github.com/ditrue/go-template/global"
+	"github.com/ditrue/go-template/model/app"
+	"github.com/ditrue/go-template/model/grocery/request"
 )
 
 type WordsService struct{}
