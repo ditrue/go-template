@@ -1,0 +1,3 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-25 08:07:00.530	[34minfo[0m	/home/ringo/workspace/github/ditrue/word-master/initialize/gorm.go:49	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-25 08:07:00.532	[34minfo[0m	/home/ringo/workspace/github/ditrue/word-master/initialize/router.go:59	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-25 08:07:00.532	[34minfo[0m	/home/ringo/workspace/github/ditrue/word-master/initialize/router.go:77	router register success

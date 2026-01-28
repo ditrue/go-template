@@ -1,0 +1,5 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2026-01-28 11:10:05.855	[34minfo[0m	/home/ringo/workspace/github/ditrue/word-master/initialize/gorm.go:49	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2026-01-28 11:10:05.855	[34minfo[0m	/home/ringo/workspace/github/ditrue/word-master/initialize/router.go:59	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2026-01-28 11:10:05.856	[34minfo[0m	/home/ringo/workspace/github/ditrue/word-master/initialize/router.go:77	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2026-01-28 11:10:11.262	[34minfo[0m	/home/ringo/workspace/github/ditrue/word-master/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2026-01-28 11:10:11.263	[34minfo[0m	/home/ringo/workspace/github/ditrue/word-master/core/server_run.go:59	WEB服务已关闭

@@ -1,0 +1,10 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2025-09-08 07:06:50.694	[34minfo[0m	/home/ringo/workspace/gin-vue-admin/server/initialize/gorm.go:77	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-09-08 07:06:50.696	[34minfo[0m	/home/ringo/workspace/gin-vue-admin/server/initialize/router.go:71	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-09-08 07:06:50.711	[34minfo[0m	/home/ringo/workspace/gin-vue-admin/server/initialize/router.go:119	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-09-08 18:12:37.278	[34minfo[0m	/home/ringo/workspace/gin-vue-admin/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-09-08 18:12:37.283	[34minfo[0m	/home/ringo/workspace/gin-vue-admin/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-09-08 18:12:51.281	[34minfo[0m	/home/ringo/workspace/gin-vue-admin/server/initialize/gorm.go:77	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-09-08 18:12:51.284	[34minfo[0m	/home/ringo/workspace/gin-vue-admin/server/initialize/router.go:71	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-09-08 18:12:51.298	[34minfo[0m	/home/ringo/workspace/gin-vue-admin/server/initialize/router.go:119	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-09-08 18:13:49.771	[34minfo[0m	/home/ringo/workspace/gin-vue-admin/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-09-08 18:13:49.772	[34minfo[0m	/home/ringo/workspace/gin-vue-admin/server/core/server_run.go:59	WEB服务已关闭

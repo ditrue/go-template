@@ -1,0 +1,23 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:23:02.020	[34minfo[0m	/home/ringo/workspace/go-example/initialize/gorm.go:77	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:23:02.022	[34minfo[0m	/home/ringo/workspace/go-example/initialize/router.go:71	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:23:02.068	[34minfo[0m	/home/ringo/workspace/go-example/initialize/router.go:119	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:24:47.432	[34minfo[0m	/home/ringo/workspace/go-example/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:24:47.432	[34minfo[0m	/home/ringo/workspace/go-example/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:47:32.596	[34minfo[0m	/home/ringo/workspace/go-example/initialize/gorm.go:49	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:47:32.597	[34minfo[0m	/home/ringo/workspace/go-example/initialize/router.go:56	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:47:32.598	[34minfo[0m	/home/ringo/workspace/go-example/initialize/router.go:74	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:47:59.138	[34minfo[0m	/home/ringo/workspace/go-example/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:47:59.138	[34minfo[0m	/home/ringo/workspace/go-example/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:48:14.435	[34minfo[0m	/home/ringo/workspace/go-example/initialize/gorm.go:49	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:48:14.436	[34minfo[0m	/home/ringo/workspace/go-example/initialize/router.go:59	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:48:14.436	[34minfo[0m	/home/ringo/workspace/go-example/initialize/router.go:77	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:51:11.594	[34minfo[0m	/home/ringo/workspace/go-example/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:51:11.594	[34minfo[0m	/home/ringo/workspace/go-example/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:51:14.066	[34minfo[0m	/home/ringo/workspace/go-example/initialize/gorm.go:49	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:51:14.067	[34minfo[0m	/home/ringo/workspace/go-example/initialize/router.go:59	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:51:14.067	[34minfo[0m	/home/ringo/workspace/go-example/initialize/router.go:77	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:51:26.576	[34minfo[0m	/home/ringo/workspace/go-example/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:51:26.577	[34minfo[0m	/home/ringo/workspace/go-example/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:51:27.374	[34minfo[0m	/home/ringo/workspace/go-example/initialize/gorm.go:49	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:51:27.376	[34minfo[0m	/home/ringo/workspace/go-example/initialize/router.go:59	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-24 18:51:27.376	[34minfo[0m	/home/ringo/workspace/go-example/initialize/router.go:77	router register success

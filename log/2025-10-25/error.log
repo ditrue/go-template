@@ -1,0 +1,1 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-25 08:07:00.532	[31merror[0m	/home/ringo/workspace/github/ditrue/word-master/service/app/jwt_black_list.go:46	加载数据库jwt黑名单失败!	{"error": "ERROR: relation \"jwt_blacklists\" does not exist (SQLSTATE 42P01)"}
